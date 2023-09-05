@@ -1,0 +1,29 @@
+.main-currency-table {
+    margin: 0;
+}
+
+.main-commissions-table {
+    margin: 0;
+}
+
+
+.main-tables-container {
+    justify-content: center;
+    overflow: hidden;
+}
+
+.main-product-detail .main-info-container-text {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    max-width: 930px;
+}
+
+.main-plans-container .plans-container--slider {
+    justify-content: space-evenly;
+    overflow: hidden;
+}
+
+footer {
+    justify-content: center;
+}
